@@ -1,0 +1,7 @@
+/* This comment
+   /* Has a nested one */
+*/
+
+function int main() {
+  return 0;
+}
