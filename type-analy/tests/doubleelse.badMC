@@ -1,0 +1,4 @@
+function int main(*char in) {
+  if (1==2) {} {if {} else {}} else {}
+  return 0;
+}

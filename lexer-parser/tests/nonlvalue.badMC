@@ -1,0 +1,4 @@
+function int main(*char in) {
+  2+2 = atoi(in);
+  return 0;
+}
